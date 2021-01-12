@@ -7,11 +7,11 @@ DPM codes for <br />
 3):   Navigation and navigation-avoidance<br /> 
 4):   Localization
 
-Final Project:
-Automatic positioning ballistic launcher
-   Java/EV3
-   Design Principle and Methods Project:
-      • Enabled auto-positioning and travelling to designated destinations and launching balls.
-      • Implemented auto localization and position correction in the car by detecting its surrounding environment.
-      • Implemented obstacles-avoiding function in this car.
+Final Project:<br />
+Automatic positioning ballistic launcher<br />
+   Java/EV3<br />
+   Design Principle and Methods Project:<br />
+      • Enabled auto-positioning and travelling to designated destinations and launching balls.<br />
+      • Implemented auto localization and position correction in the car by detecting its surrounding environment.<br />
+      • Implemented obstacles-avoiding function in this car.<br />
 
